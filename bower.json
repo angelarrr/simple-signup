@@ -1,0 +1,23 @@
+{
+  "name": "simple-signup",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angelarrr/simple-signup",
+  "authors": [
+    "angelarrr <kwon.angela@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.3",
+    "angular-mocks": "~1.4.3",
+  }
+}
